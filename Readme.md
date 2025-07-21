@@ -83,16 +83,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 📸 Screenshots
-
-### Interface do Carrinho
-![Exemplo de Carrinho](https://via.placeholder.com/800x400?text=Imagem+do+Carrinho)
-
-### Arquitetura do Projeto
-![Arquitetura](https://via.placeholder.com/800x400?text=Diagrama+da+Arquitetura)
-
----
-
 ## 🚀 Como Rodar o Projeto
 
 ### Pré-requisitos
